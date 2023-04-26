@@ -1,7 +1,7 @@
 - 👋 Hola! Soy Gabi Palacios💫
 - 👀 Me encanta todo lo que sea visual y de diseño
 - 🌱 Actualmente estoy estudiando en Digital House
-- 📫 Mi mail es mgpalacios@hotmail.com 
+- 📫 Mi mail es gabipalacios@gmail.com 
 
 <!---
 magapalacios/magapalacios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
