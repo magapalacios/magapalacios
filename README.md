@@ -1,6 +1,7 @@
 - 👋 Hola! Soy Gabi Palacios💫
+- ✨ Developer Full Stack | Analista de Sistemas
 - 👀 Me encanta todo lo que sea visual y de diseño
-- 🌱 Actualmente estoy estudiando en Digital House
+- 🌱 Estudie en Digital House
 - 📫 Mi mail es gabipalacios@gmail.com 
 
 <!---
